@@ -1,7 +1,5 @@
-
-
+#List Of Packages Used
 library(RColorBrewer) 
-library(wordcloud)
 library(tm)
 library(twitteR)
 library(ROAuth)
